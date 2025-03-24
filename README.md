@@ -1,2 +1,2 @@
 # DevOpsTraining25
-Welcome to devops refresh trip.
+Welcome to my devops-refresh trip.
