@@ -1,15 +1,15 @@
 # Environment Setup 
-In this project we would be displaying our devops lab setup with the neccessary requirements.
+In this project we would be displaying our devops lab setup with the necessary requirements.
 
 
 
 ## VSCode
-The IDE we would be using through out our journey. 
+We will be using the IDE throughout our journey. 
 
 ![ide](1.VSCode.png)
 
 ## Git
-Git version to show that git is installed on machine.
+Git version to show that git is installed on the machine.
 
 ![git version](2.git.png)
 
