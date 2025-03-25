@@ -2,6 +2,6 @@
 ## Welcome to my devops-refresh trip.
 
 
-- Env Setup
+- Environment Setup
 - Linux Project
 - 
