@@ -3,5 +3,5 @@
 
 
 - Environment Setup
+- Version Control Manag(GitHub)
 - Linux Project
-- 
